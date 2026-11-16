@@ -1,0 +1,5 @@
+# robots.txt for aayushadhikari.com.np
+User-agent: *
+Allow: /
+
+Sitemap: https://aayushadhikari.com.np/sitemap.xml

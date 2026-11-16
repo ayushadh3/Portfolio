@@ -1,0 +1,13 @@
+{
+  "name": "Aayush Adhikari — Portfolio",
+  "short_name": "Aayush",
+  "description": "Software architect, GovTech engineer and agri-tech founder based in Nepal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2e9",
+  "theme_color": "#10312b",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
